@@ -1,0 +1,119 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-bg: #09090a;
+  --color-surface: #121214;
+  --color-surface-2: #1a1a1e;
+  --color-surface-3: #232328;
+  --color-line: rgb(255 255 255 / 0.08);
+  --color-line-strong: rgb(255 255 255 / 0.16);
+  --color-ink: #f6f4ef;
+  --color-mute: #a1a1aa;
+  --color-dim: #71717a;
+  --color-amber: #ffb81c;
+  --color-amber-soft: #ffd36b;
+  --color-amber-deep: #f08c00;
+  --color-ok: #34d399;
+  --color-bad: #fb7185;
+  --font-sans: var(--font-inter), system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-display: var(--font-sora), var(--font-inter), system-ui, sans-serif;
+  --shadow-glow: 0 0 0 1px rgb(255 184 28 / 0.35), 0 10px 40px -10px rgb(255 160 0 / 0.45);
+  --animate-rise: rise 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
+  --animate-sheet: sheet 0.38s cubic-bezier(0.22, 1, 0.36, 1) both;
+  --animate-fade: fade 0.25s ease both;
+  --animate-pulse-ring: pulse-ring 1.8s ease-out infinite;
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(14px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes sheet {
+  from { opacity: 0; transform: translateY(40px) scale(0.985); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes pulse-ring {
+  0% { box-shadow: 0 0 0 0 rgb(52 211 153 / 0.55); }
+  100% { box-shadow: 0 0 0 10px rgb(52 211 153 / 0); }
+}
+
+:root { color-scheme: dark; }
+
+html { scroll-behavior: smooth; scroll-padding-top: 8.5rem; -webkit-text-size-adjust: 100%; }
+
+body {
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  min-height: 100dvh;
+}
+
+::selection { background: var(--color-amber); color: #111; }
+
+* { -webkit-tap-highlight-color: transparent; }
+
+/* scrollbars discretas */
+* { scrollbar-width: thin; scrollbar-color: #3a3a41 transparent; }
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
+
+@utility btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-2xl px-5 py-3 text-[15px] font-semibold transition
+    active:scale-[0.97] disabled:pointer-events-none disabled:opacity-40 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-amber;
+}
+
+@layer components {
+  .btn-primary {
+    @apply btn text-[#1a1100];
+    background: linear-gradient(135deg, var(--color-amber-soft), var(--color-amber) 45%, var(--color-amber-deep));
+    box-shadow: 0 8px 28px -8px rgb(255 160 0 / 0.55), inset 0 1px 0 rgb(255 255 255 / 0.35);
+  }
+  .btn-primary:hover { filter: brightness(1.06); }
+  .btn-ghost { @apply btn border border-line-strong bg-white/[0.03] text-ink hover:bg-white/[0.08]; }
+  .btn-danger { @apply btn border border-bad/40 bg-bad/10 text-bad hover:bg-bad/20; }
+  .card { @apply rounded-3xl border border-line bg-surface; }
+  .field {
+    @apply w-full rounded-2xl border border-line-strong bg-surface-2 px-4 py-3 text-[15px] text-ink placeholder:text-dim
+      transition focus:border-amber focus:outline-none focus:ring-4 focus:ring-amber/15;
+  }
+  .label { @apply mb-1.5 block text-xs font-semibold uppercase tracking-wider text-mute; }
+  .chip {
+    @apply inline-flex items-center rounded-full border border-line-strong px-3.5 py-1.5 text-sm font-medium text-mute transition hover:text-ink;
+  }
+  .glass {
+    background: rgb(12 12 14 / 0.72);
+    backdrop-filter: blur(18px) saturate(1.4);
+    -webkit-backdrop-filter: blur(18px) saturate(1.4);
+  }
+}
+
+.text-gold {
+  background: linear-gradient(135deg, var(--color-amber-soft), var(--color-amber) 50%, var(--color-amber-deep));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.grain::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.06;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+}
+
+@media print {
+  .no-print { display: none !important; }
+  body { background: #fff; color: #000; }
+}

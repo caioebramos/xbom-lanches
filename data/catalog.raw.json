@@ -1,0 +1,3169 @@
+{
+ "addons": [
+  {
+   "name": "Maionese verde",
+   "value": 4
+  },
+  {
+   "name": "Maionese de bacon",
+   "value": 8
+  },
+  {
+   "name": "Molho tasty",
+   "value": 8
+  },
+  {
+   "name": "Batata frita",
+   "detail": "150g",
+   "value": 8
+  },
+  {
+   "name": "Hambúrguer bovino",
+   "detail": "200g",
+   "value": 14
+  },
+  {
+   "name": "Hambúrguer bovino",
+   "detail": "160g",
+   "value": 12
+  },
+  {
+   "name": "Hambúrguer bovino",
+   "detail": "100g",
+   "value": 10
+  },
+  {
+   "name": "Hambúrguer de frango",
+   "detail": "160g",
+   "value": 12
+  },
+  {
+   "name": "Bacon crispy empanado",
+   "value": 10
+  },
+  {
+   "name": "Ovo",
+   "value": 2.5
+  },
+  {
+   "name": "Queijo cheddar",
+   "value": 4
+  },
+  {
+   "name": "Queijo mussarela",
+   "value": 4
+  },
+  {
+   "name": "Cebola roxa",
+   "value": 2.5
+  },
+  {
+   "name": "Picles",
+   "value": 2.5
+  },
+  {
+   "name": "Calabresa",
+   "value": 7
+  },
+  {
+   "name": "Bacon",
+   "value": 7
+  }
+ ],
+ "products": [
+  {
+   "name": "X-Burger",
+   "description": "Pão brioche, hambúrguer 160g, maionese e mussarela.",
+   "category": "Lanches",
+   "image": "/products/x-burger.png",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 20
+    }
+   ]
+  },
+  {
+   "name": "Smash Duplo Cheddar",
+   "description": "Pão brioche, 2 hambúrgueres 100g, 2 fatias de cheddar e maionese.",
+   "category": "Lanches",
+   "image": "/products/smash-duplo-cheddar.png",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 25
+    }
+   ]
+  },
+  {
+   "name": "X-Salada",
+   "description": "Pão brioche, maionese, hambúrguer 160g, alface americana, tomate, picles, mussarela e cebola roxa.",
+   "category": "Lanches",
+   "image": "/products/x-salada.png",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 27
+    }
+   ]
+  },
+  {
+   "name": "X-Bacon",
+   "description": "Pão brioche, maionese, hambúrguer 160g, alface, tomate, bacon, maionese de bacon, mussarela e cebola roxa.",
+   "category": "Lanches",
+   "image": "/products/x-bacon.png",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 32
+    }
+   ]
+  },
+  {
+   "name": "X-Calabresa",
+   "description": "Pão brioche, maionese, hambúrguer 160g, alface, tomate, calabresa, mussarela, cebola roxa e barbecue.",
+   "category": "Lanches",
+   "image": "/products/x-calabresa.png",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 29.9
+    }
+   ]
+  },
+  {
+   "name": "X-Egg",
+   "description": "Pão brioche, maionese, hambúrguer 160g, alface, tomate, mussarela, cebola roxa e ovo frito.",
+   "category": "Lanches",
+   "image": "/products/x-egg.png",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 29.9
+    }
+   ]
+  },
+  {
+   "name": "X-Frango",
+   "description": "Pão brioche, maionese, mussarela, hambúrguer de frango 160g, frango empanado, alface, tomate e cebola roxa.",
+   "category": "Lanches",
+   "image": "/products/x-frango.png",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 29.9
+    }
+   ]
+  },
+  {
+   "name": "X-Bacon Especial",
+   "description": "Pão brioche, maionese, hambúrguer 200g, bacon empanado, cheddar, mussarela, alface, tomate, picles e molho tasty.",
+   "category": "Lanches",
+   "image": "/products/x-bacon-especial.png",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 35
+    }
+   ]
+  },
+  {
+   "name": "X-Costela Cream Cheese",
+   "description": "Pão brioche, maionese, hambúrguer 200g, costela com cream cheese, barbecue, alface, tomate, cheddar e mussarela.",
+   "category": "Lanches",
+   "image": "/products/x-costela-cream-cheese.png",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 35
+    }
+   ]
+  },
+  {
+   "name": "X-Australia",
+   "description": "Pão brioche, maionese, hambúrguer 200g, cebola crispy, alface, bacon crispy, tomate e barbecue.",
+   "category": "Lanches",
+   "image": "/products/x-australia.png",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 38
+    }
+   ]
+  },
+  {
+   "name": "Combo X-Bacon",
+   "description": "2 X-Bacon + fritas + 1 Coca-Cola 600ml.",
+   "category": "Combos",
+   "image": "/products/combo-x-bacon.webp",
+   "prices": [
+    {
+     "label": "Combo",
+     "value": 70
+    }
+   ]
+  },
+  {
+   "name": "Combo Smash Duplo",
+   "description": "2 Smash Duplo Cheddar + fritas + 1 Coca-Cola 600ml.",
+   "category": "Combos",
+   "image": "/products/combo-smash.webp",
+   "prices": [
+    {
+     "label": "Combo",
+     "value": 68.9
+    }
+   ]
+  },
+  {
+   "name": "Combo 5 Esfihas",
+   "description": "5 esfihas + 1 Coca-Cola 350ml.",
+   "category": "Combos",
+   "image": "/products/esfiha-especial.webp",
+   "prices": [
+    {
+     "label": "Combo",
+     "value": 49.9
+    }
+   ]
+  },
+  {
+   "name": "Combo 10 Esfihas",
+   "description": "10 esfihas, sendo 5 salgadas e 5 doces + 1 Coca-Cola 600ml.",
+   "category": "Combos",
+   "image": "/esfiha-premium.png",
+   "prices": [
+    {
+     "label": "Combo",
+     "value": 75
+    }
+   ]
+  },
+  {
+   "name": "Combo 2 Pizzas Tradicionais",
+   "description": "2 pizzas grandes de sabores tradicionais + 1 Coca-Cola 2 litros.",
+   "category": "Combos",
+   "image": "/products/pizzas/calabresa.webp",
+   "prices": [
+    {
+     "label": "Combo",
+     "value": 130
+    }
+   ]
+  },
+  {
+   "name": "Combo 2 Pizzas Especiais",
+   "description": "2 pizzas grandes de sabores especiais + 1 Coca-Cola 2 litros.",
+   "category": "Combos",
+   "image": "/products/pizzas/frango-e-bacon.webp",
+   "prices": [
+    {
+     "label": "Combo",
+     "value": 140
+    }
+   ]
+  },
+  {
+   "name": "Combo 2 Pizzas Nobres",
+   "description": "2 pizzas grandes de sabores nobres + 1 Coca-Cola 2 litros.",
+   "category": "Combos",
+   "image": "/products/pizzas/camarao-cheese.webp",
+   "prices": [
+    {
+     "label": "Combo",
+     "value": 150
+    }
+   ]
+  },
+  {
+   "name": "Combo Broto em Dobro",
+   "description": "2 pizzas broto + 1 Coca-Cola 600ml.",
+   "category": "Combos",
+   "image": "/products/pizzas/portuguesa.webp",
+   "prices": [
+    {
+     "label": "Combo",
+     "value": 55
+    }
+   ]
+  },
+  {
+   "name": "Combo Mini Broto",
+   "description": "1 pizza broto + 1 Coca-Cola 350ml.",
+   "category": "Combos",
+   "image": "/products/pizzas/marguerita.webp",
+   "prices": [
+    {
+     "label": "Combo",
+     "value": 35
+    }
+   ]
+  },
+  {
+   "name": "Alho e Óleo",
+   "description": "Molho, mussarela, alho, azeite de oliva e azeitona preta.",
+   "category": "Pizzas tradicionais",
+   "image": "/products/pizzas/alho-e-oleo.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Atum",
+   "description": "Molho, mussarela, atum, cebola e azeitona preta.",
+   "category": "Pizzas tradicionais",
+   "image": "/products/pizzas/atum.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Bacon",
+   "description": "Molho, mussarela e bacon.",
+   "category": "Pizzas tradicionais",
+   "image": "/products/pizzas/bacon.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Brócolis",
+   "description": "Molho, mussarela e brócolis.",
+   "category": "Pizzas tradicionais",
+   "image": "/products/pizzas/brocolis.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Calabresa",
+   "description": "Molho, mussarela, calabresa e cebola.",
+   "category": "Pizzas tradicionais",
+   "image": "/products/pizzas/calabresa.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Ele e Ela",
+   "description": "Molho, mussarela, presunto e tomate-cereja.",
+   "category": "Pizzas tradicionais",
+   "image": "/products/pizzas/ele-e-ela.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Napolitana",
+   "description": "Molho, mussarela, tomate-cereja e parmesão.",
+   "category": "Pizzas tradicionais",
+   "image": "/products/pizzas/napolitana.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Marguerita",
+   "description": "Molho, mussarela, tomate-cereja, parmesão, manjericão, alho e óleo.",
+   "category": "Pizzas tradicionais",
+   "image": "/products/pizzas/marguerita.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Paulista",
+   "description": "Molho, mussarela, milho, palmito, tomate-cereja e azeitona.",
+   "category": "Pizzas tradicionais",
+   "image": "/products/pizzas/paulista.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Palmito",
+   "description": "Molho, mussarela, palmito e catupiry.",
+   "category": "Pizzas tradicionais",
+   "image": "/products/pizzas/palmito.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Pepperoni",
+   "description": "Molho, mussarela e pepperoni.",
+   "category": "Pizzas tradicionais",
+   "image": "/products/pizzas/pepperoni.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Lombo",
+   "description": "Molho, mussarela, lombo e catupiry.",
+   "category": "Pizzas tradicionais",
+   "image": "/products/pizzas/lombo.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "2 Queijos",
+   "description": "Molho, mussarela e catupiry.",
+   "category": "Pizzas tradicionais",
+   "image": "/products/pizzas/2-queijos.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Brócolis Especial",
+   "description": "Molho, mussarela, brócolis, bacon, catupiry, tomate-cereja e azeitona.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/brocolis-especial.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Americana",
+   "description": "Molho, mussarela, calabresa, milho, ovo, bacon e cheddar.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/americana.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Baiana",
+   "description": "Molho, mussarela, calabresa, cebola, ovo e pimenta calabresa.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/baiana.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Frango e Bacon",
+   "description": "Molho, mussarela, frango, bacon e catupiry.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/frango-e-bacon.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Frango Palha",
+   "description": "Molho, mussarela, frango, bacon, catupiry e batata palha.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/frango-palha.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Frango Caipira",
+   "description": "Molho, mussarela, frango, milho, bacon e catupiry.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/frango-caipira.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Havaiana",
+   "description": "Molho, mussarela, abacaxi, barbecue e tomate-cereja.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/havaiana.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Mexicana",
+   "description": "Molho, mussarela, calabresa, cebola, pimenta calabresa e geleia de pimenta.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/mexicana.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Milho e Bacon",
+   "description": "Molho, mussarela, milho, bacon e catupiry.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/milho-e-bacon.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Portuguesa",
+   "description": "Molho, mussarela, presunto, cebola, ovo, pimentão e azeitona preta.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/portuguesa.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Creme Frango",
+   "description": "Molho, mussarela, frango em cubos, creme de cheddar e Doritos.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/creme-frango.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Italiana",
+   "description": "Molho, mussarela, salame italiano, parmesão, molho pesto e azeitona preta.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/italiana.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Linguiça Blumenau",
+   "description": "Molho, mussarela, linguiça defumada, champignon, azeitona preta, alho e óleo.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/linguica-blumenau.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Lombo com Cream Cheese",
+   "description": "Molho, mussarela, lombo, bacon e cream cheese.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/lombo-com-cream-cheese.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Lombo com Barbecue",
+   "description": "Molho, mussarela, lombo, bacon e barbecue.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/lombo-com-barbecue.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Lombo Especial",
+   "description": "Molho, mussarela, lombo, palmito, bacon, ovo e catupiry.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/lombo-especial.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Strogonoff de Carne",
+   "description": "Molho, mussarela, strogonoff de carne e batata palha.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/strogonoff-de-carne.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Strogonoff de Frango",
+   "description": "Molho, mussarela, strogonoff de frango e batata palha.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/strogonoff-de-frango.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Costela",
+   "description": "Molho, mussarela, costela desfiada, cebola, alho e óleo.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/costela.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Costela com Barbecue",
+   "description": "Molho, mussarela, costela desfiada, barbecue e batata palha.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/costela-com-barbecue.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Bolonhesa",
+   "description": "Molho, mussarela, carne moída, parmesão e batata palha.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/bolonhesa.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Vegetariana",
+   "description": "Molho, mussarela, tomate-cereja, milho, brócolis e molho pesto.",
+   "category": "Pizzas especiais",
+   "image": "/products/pizzas/vegetariana.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Palmito, Nozes e Mel",
+   "description": "Molho, mussarela, palmito, nozes, mel e gorgonzola.",
+   "category": "Pizzas nobres",
+   "image": "/products/pizzas/palmito-nozes-e-mel.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 35,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 70,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Camarão Cheese",
+   "description": "Molho, mussarela, camarão e cream cheese.",
+   "category": "Pizzas nobres",
+   "image": "/products/pizzas/camarao-cheese.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 40,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 85,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Camarão ao Alho e Óleo",
+   "description": "Molho, mussarela, camarão, alho e óleo.",
+   "category": "Pizzas nobres",
+   "image": "/products/pizzas/camarao-ao-alho-e-oleo.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 40,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 85,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Camarão ao Molho Pesto",
+   "description": "Molho, mussarela, camarão e molho pesto.",
+   "category": "Pizzas nobres",
+   "image": "/products/pizzas/camarao-ao-molho-pesto.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 40,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 85,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Filé Alho e Óleo",
+   "description": "Molho, mussarela, filé, alho e óleo.",
+   "category": "Pizzas nobres",
+   "image": "/products/pizzas/file-alho-e-oleo.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 35,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 70,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Filé na Mostarda",
+   "description": "Molho, mussarela, filé e mostarda.",
+   "category": "Pizzas nobres",
+   "image": "/products/pizzas/file-na-mostarda.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 35,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 70,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Filé Barbecue",
+   "description": "Molho, mussarela, filé e barbecue.",
+   "category": "Pizzas nobres",
+   "image": "/products/pizzas/file-barbecue.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 35,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 70,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "6 Queijos",
+   "description": "Molho, mussarela, provolone, parmesão, gorgonzola, cheddar e catupiry.",
+   "category": "Pizzas nobres",
+   "image": "/products/pizzas/6-queijos.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 35,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 70,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Sensação",
+   "description": "Creme de leite, mussarela, chocolate preto e morango.",
+   "category": "Pizzas doces tradicionais",
+   "image": "/products/pizzas/sensacao.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Tentação",
+   "description": "Creme de leite, mussarela, chocolate branco, morango e coco ralado.",
+   "category": "Pizzas doces tradicionais",
+   "image": "/products/pizzas/tentacao.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Dois Amores",
+   "description": "Creme de leite, mussarela, chocolate branco, chocolate preto e morango.",
+   "category": "Pizzas doces tradicionais",
+   "image": "/products/pizzas/dois-amores.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Abacaxi com Chocolate Branco Gratinado",
+   "description": "Creme de leite, mussarela, abacaxi e chocolate branco gratinado.",
+   "category": "Pizzas doces tradicionais",
+   "image": "/products/pizzas/abacaxi-com-chocolate-branco-gratinado.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Charge",
+   "description": "Creme de leite, mussarela, doce de leite, chocolate preto e amendoim.",
+   "category": "Pizzas doces tradicionais",
+   "image": "/products/pizzas/charge.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Prestígio",
+   "description": "Creme de leite, mussarela, chocolate preto, Prestígio e coco ralado.",
+   "category": "Pizzas doces tradicionais",
+   "image": "/products/pizzas/prestigio.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Banana com Chocolate Preto",
+   "description": "Creme de leite, mussarela, banana e chocolate preto.",
+   "category": "Pizzas doces tradicionais",
+   "image": "/products/pizzas/banana-com-chocolate-preto.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Banana Nevada",
+   "description": "Creme de leite, mussarela, banana e chocolate branco gratinado.",
+   "category": "Pizzas doces tradicionais",
+   "image": "/products/pizzas/banana-nevada.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Banana com Canela",
+   "description": "Creme de leite, mussarela, banana, açúcar e canela.",
+   "category": "Pizzas doces tradicionais",
+   "image": "/products/pizzas/banana-com-canela.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Confete",
+   "description": "Creme de leite, mussarela, chocolate preto e confete.",
+   "category": "Pizzas doces tradicionais",
+   "image": "/products/pizzas/confete.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Banoffee",
+   "description": "Creme de leite, mussarela, doce de leite, banana e chocolate preto.",
+   "category": "Pizzas doces tradicionais",
+   "image": "/products/pizzas/banoffee.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 25,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 60,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Kinder Bueno",
+   "description": "Chocolate branco, chocolate preto, morango e Kinder Bueno.",
+   "category": "Pizzas doces especiais",
+   "image": "/products/pizzas/kinder-bueno.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Nutella com Morango",
+   "description": "Creme de leite, mussarela, creme de avelã Nutella, Nutella em barras e morango.",
+   "category": "Pizzas doces especiais",
+   "image": "/products/pizzas/nutella-com-morango.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Rafaello",
+   "description": "Creme de leite, mussarela, creme de avelã Nutella, raspas de chocolate branco, Rafaello e morango.",
+   "category": "Pizzas doces especiais",
+   "image": "/products/pizzas/rafaello.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 40,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 85,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Ninho com Nutella",
+   "description": "Creme de leite, mussarela, creme de avelã Nutella, morango, creme Ninho e leite em pó Ninho.",
+   "category": "Pizzas doces especiais",
+   "image": "/products/pizzas/ninho-com-nutella.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Califórnia",
+   "description": "Creme de leite, mussarela, abacaxi, pêssego, cereja, morango e leite condensado.",
+   "category": "Pizzas doces especiais",
+   "image": "/products/pizzas/california.webp",
+   "prices": [
+    {
+     "label": "Broto",
+     "value": 30,
+     "slices": 4
+    },
+    {
+     "label": "Grande",
+     "value": 65,
+     "slices": 8
+    }
+   ]
+  },
+  {
+   "name": "Batata Alho e Óleo",
+   "description": "Batata recheada sabor Alho e Óleo. Molho, mussarela, alho, azeite de oliva e azeitona preta.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/alho-e-oleo.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 38
+    }
+   ]
+  },
+  {
+   "name": "Batata Atum",
+   "description": "Batata recheada sabor Atum. Molho, mussarela, atum, cebola e azeitona preta.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/atum.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 38
+    }
+   ]
+  },
+  {
+   "name": "Batata Bacon",
+   "description": "Batata recheada sabor Bacon. Molho, mussarela e bacon.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/bacon.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 38
+    }
+   ]
+  },
+  {
+   "name": "Batata Brócolis",
+   "description": "Batata recheada sabor Brócolis. Molho, mussarela e brócolis.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/brocolis.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 38
+    }
+   ]
+  },
+  {
+   "name": "Batata Calabresa",
+   "description": "Batata recheada sabor Calabresa. Molho, mussarela, calabresa e cebola.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/calabresa.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 38
+    }
+   ]
+  },
+  {
+   "name": "Batata Ele e Ela",
+   "description": "Batata recheada sabor Ele e Ela. Molho, mussarela, presunto e tomate-cereja.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/ele-e-ela.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 38
+    }
+   ]
+  },
+  {
+   "name": "Batata Napolitana",
+   "description": "Batata recheada sabor Napolitana. Molho, mussarela, tomate-cereja e parmesão.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/napolitana.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 38
+    }
+   ]
+  },
+  {
+   "name": "Batata Marguerita",
+   "description": "Batata recheada sabor Marguerita. Molho, mussarela, tomate-cereja, parmesão, manjericão, alho e óleo.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/marguerita.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 38
+    }
+   ]
+  },
+  {
+   "name": "Batata Paulista",
+   "description": "Batata recheada sabor Paulista. Molho, mussarela, milho, palmito, tomate-cereja e azeitona.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/paulista.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 38
+    }
+   ]
+  },
+  {
+   "name": "Batata Palmito",
+   "description": "Batata recheada sabor Palmito. Molho, mussarela, palmito e catupiry.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/palmito.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 38
+    }
+   ]
+  },
+  {
+   "name": "Batata Pepperoni",
+   "description": "Batata recheada sabor Pepperoni. Molho, mussarela e pepperoni.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/pepperoni.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 38
+    }
+   ]
+  },
+  {
+   "name": "Batata Lombo",
+   "description": "Batata recheada sabor Lombo. Molho, mussarela, lombo e catupiry.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/lombo.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 38
+    }
+   ]
+  },
+  {
+   "name": "Batata 2 Queijos",
+   "description": "Batata recheada sabor 2 Queijos. Molho, mussarela e catupiry.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/2-queijos.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 38
+    }
+   ]
+  },
+  {
+   "name": "Batata Brócolis Especial",
+   "description": "Batata recheada sabor Brócolis Especial. Molho, mussarela, brócolis, bacon, catupiry, tomate-cereja e azeitona.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/brocolis-especial.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Americana",
+   "description": "Batata recheada sabor Americana. Molho, mussarela, calabresa, milho, ovo, bacon e cheddar.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/americana.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Baiana",
+   "description": "Batata recheada sabor Baiana. Molho, mussarela, calabresa, cebola, ovo e pimenta calabresa.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/baiana.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Frango e Bacon",
+   "description": "Batata recheada sabor Frango e Bacon. Molho, mussarela, frango, bacon e catupiry.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/frango-e-bacon.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Frango Palha",
+   "description": "Batata recheada sabor Frango Palha. Molho, mussarela, frango, bacon, catupiry e batata palha.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/frango-palha.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Frango Caipira",
+   "description": "Batata recheada sabor Frango Caipira. Molho, mussarela, frango, milho, bacon e catupiry.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/frango-caipira.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Havaiana",
+   "description": "Batata recheada sabor Havaiana. Molho, mussarela, abacaxi, barbecue e tomate-cereja.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/havaiana.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Mexicana",
+   "description": "Batata recheada sabor Mexicana. Molho, mussarela, calabresa, cebola, pimenta calabresa e geleia de pimenta.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/mexicana.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Milho e Bacon",
+   "description": "Batata recheada sabor Milho e Bacon. Molho, mussarela, milho, bacon e catupiry.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/milho-e-bacon.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Portuguesa",
+   "description": "Batata recheada sabor Portuguesa. Molho, mussarela, presunto, cebola, ovo, pimentão e azeitona preta.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/portuguesa.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Creme Frango",
+   "description": "Batata recheada sabor Creme Frango. Molho, mussarela, frango em cubos, creme de cheddar e Doritos.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/creme-frango.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Italiana",
+   "description": "Batata recheada sabor Italiana. Molho, mussarela, salame italiano, parmesão, molho pesto e azeitona preta.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/italiana.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Linguiça Blumenau",
+   "description": "Batata recheada sabor Linguiça Blumenau. Molho, mussarela, linguiça defumada, champignon, azeitona preta, alho e óleo.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/linguica-blumenau.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Lombo com Cream Cheese",
+   "description": "Batata recheada sabor Lombo com Cream Cheese. Molho, mussarela, lombo, bacon e cream cheese.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/lombo-com-cream-cheese.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Lombo com Barbecue",
+   "description": "Batata recheada sabor Lombo com Barbecue. Molho, mussarela, lombo, bacon e barbecue.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/lombo-com-barbecue.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Lombo Especial",
+   "description": "Batata recheada sabor Lombo Especial. Molho, mussarela, lombo, palmito, bacon, ovo e catupiry.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/lombo-especial.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Strogonoff de Carne",
+   "description": "Batata recheada sabor Strogonoff de Carne. Molho, mussarela, strogonoff de carne e batata palha.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/strogonoff-de-carne.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Strogonoff de Frango",
+   "description": "Batata recheada sabor Strogonoff de Frango. Molho, mussarela, strogonoff de frango e batata palha.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/strogonoff-de-frango.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Costela",
+   "description": "Batata recheada sabor Costela. Molho, mussarela, costela desfiada, cebola, alho e óleo.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/costela.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Costela com Barbecue",
+   "description": "Batata recheada sabor Costela com Barbecue. Molho, mussarela, costela desfiada, barbecue e batata palha.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/costela-com-barbecue.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Bolonhesa",
+   "description": "Batata recheada sabor Bolonhesa. Molho, mussarela, carne moída, parmesão e batata palha.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/bolonhesa.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Vegetariana",
+   "description": "Batata recheada sabor Vegetariana. Molho, mussarela, tomate-cereja, milho, brócolis e molho pesto.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/vegetariana.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 39.99
+    }
+   ]
+  },
+  {
+   "name": "Batata Palmito, Nozes e Mel",
+   "description": "Batata recheada sabor Palmito, Nozes e Mel. Molho, mussarela, palmito, nozes, mel e gorgonzola.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/palmito-nozes-e-mel.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 42
+    }
+   ]
+  },
+  {
+   "name": "Batata Camarão Cheese",
+   "description": "Batata recheada sabor Camarão Cheese. Molho, mussarela, camarão e cream cheese.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/camarao-cheese.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 42
+    }
+   ]
+  },
+  {
+   "name": "Batata Camarão ao Alho e Óleo",
+   "description": "Batata recheada sabor Camarão ao Alho e Óleo. Molho, mussarela, camarão, alho e óleo.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/camarao-ao-alho-e-oleo.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 42
+    }
+   ]
+  },
+  {
+   "name": "Batata Camarão ao Molho Pesto",
+   "description": "Batata recheada sabor Camarão ao Molho Pesto. Molho, mussarela, camarão e molho pesto.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/camarao-ao-molho-pesto.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 42
+    }
+   ]
+  },
+  {
+   "name": "Batata Filé Alho e Óleo",
+   "description": "Batata recheada sabor Filé Alho e Óleo. Molho, mussarela, filé, alho e óleo.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/file-alho-e-oleo.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 42
+    }
+   ]
+  },
+  {
+   "name": "Batata Filé na Mostarda",
+   "description": "Batata recheada sabor Filé na Mostarda. Molho, mussarela, filé e mostarda.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/file-na-mostarda.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 42
+    }
+   ]
+  },
+  {
+   "name": "Batata Filé Barbecue",
+   "description": "Batata recheada sabor Filé Barbecue. Molho, mussarela, filé e barbecue.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/file-barbecue.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 42
+    }
+   ]
+  },
+  {
+   "name": "Batata 6 Queijos",
+   "description": "Batata recheada sabor 6 Queijos. Molho, mussarela, provolone, parmesão, gorgonzola, cheddar e catupiry.",
+   "category": "Batatas recheadas",
+   "image": "/products/potatoes/6-queijos.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 42
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Alho e Óleo",
+   "description": "Molho, mussarela, alho, azeite de oliva e azeitona preta.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/alho-e-oleo.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Atum",
+   "description": "Molho, mussarela, atum, cebola e azeitona preta.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/atum.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Bacon",
+   "description": "Molho, mussarela e bacon.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/bacon.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Brócolis",
+   "description": "Molho, mussarela e brócolis.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/brocolis.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Calabresa",
+   "description": "Molho, mussarela, calabresa e cebola.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/calabresa.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Ele e Ela",
+   "description": "Molho, mussarela, presunto e tomate-cereja.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/ele-e-ela.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Napolitana",
+   "description": "Molho, mussarela, tomate-cereja e parmesão.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/napolitana.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Marguerita",
+   "description": "Molho, mussarela, tomate-cereja, parmesão, manjericão, alho e óleo.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/marguerita.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Paulista",
+   "description": "Molho, mussarela, milho, palmito, tomate-cereja e azeitona.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/paulista.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Palmito",
+   "description": "Molho, mussarela, palmito e catupiry.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/palmito.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Pepperoni",
+   "description": "Molho, mussarela e pepperoni.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/pepperoni.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Lombo",
+   "description": "Molho, mussarela, lombo e catupiry.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/lombo.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha 2 Queijos",
+   "description": "Molho, mussarela e catupiry.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/2-queijos.webp",
+   "prices": [
+    {
+     "label": "Tradicional",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Brócolis Especial",
+   "description": "Molho, mussarela, brócolis, bacon, catupiry, tomate-cereja e azeitona.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/brocolis-especial.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Americana",
+   "description": "Molho, mussarela, calabresa, milho, ovo, bacon e cheddar.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/americana.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Baiana",
+   "description": "Molho, mussarela, calabresa, cebola, ovo e pimenta calabresa.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/baiana.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Frango e Bacon",
+   "description": "Molho, mussarela, frango, bacon e catupiry.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/frango-e-bacon.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Frango Palha",
+   "description": "Molho, mussarela, frango, bacon, catupiry e batata palha.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/frango-palha.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Frango Caipira",
+   "description": "Molho, mussarela, frango, milho, bacon e catupiry.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/frango-caipira.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Havaiana",
+   "description": "Molho, mussarela, abacaxi, barbecue e tomate-cereja.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/havaiana.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Mexicana",
+   "description": "Molho, mussarela, calabresa, cebola, pimenta calabresa e geleia de pimenta.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/mexicana.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Milho e Bacon",
+   "description": "Molho, mussarela, milho, bacon e catupiry.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/milho-e-bacon.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Portuguesa",
+   "description": "Molho, mussarela, presunto, cebola, ovo, pimentão e azeitona preta.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/portuguesa.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Creme Frango",
+   "description": "Molho, mussarela, frango em cubos, creme de cheddar e Doritos.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/creme-frango.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Italiana",
+   "description": "Molho, mussarela, salame italiano, parmesão, molho pesto e azeitona preta.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/italiana.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Linguiça Blumenau",
+   "description": "Molho, mussarela, linguiça defumada, champignon, azeitona preta, alho e óleo.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/linguica-blumenau.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Lombo com Cream Cheese",
+   "description": "Molho, mussarela, lombo, bacon e cream cheese.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/lombo-com-cream-cheese.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Lombo com Barbecue",
+   "description": "Molho, mussarela, lombo, bacon e barbecue.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/lombo-com-barbecue.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Lombo Especial",
+   "description": "Molho, mussarela, lombo, palmito, bacon, ovo e catupiry.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/lombo-especial.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Strogonoff de Carne",
+   "description": "Molho, mussarela, strogonoff de carne e batata palha.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/strogonoff-de-carne.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Strogonoff de Frango",
+   "description": "Molho, mussarela, strogonoff de frango e batata palha.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/strogonoff-de-frango.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Costela",
+   "description": "Molho, mussarela, costela desfiada, cebola, alho e óleo.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/costela.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Costela com Barbecue",
+   "description": "Molho, mussarela, costela desfiada, barbecue e batata palha.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/costela-com-barbecue.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Bolonhesa",
+   "description": "Molho, mussarela, carne moída, parmesão e batata palha.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/bolonhesa.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Vegetariana",
+   "description": "Molho, mussarela, tomate-cereja, milho, brócolis e molho pesto.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/vegetariana.webp",
+   "prices": [
+    {
+     "label": "Especial",
+     "value": 6.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Palmito, Nozes e Mel",
+   "description": "Molho, mussarela, palmito, nozes, mel e gorgonzola.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/palmito-nozes-e-mel.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 7.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Camarão Cheese",
+   "description": "Molho, mussarela, camarão e cream cheese.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/camarao-cheese.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 7.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Camarão ao Alho e Óleo",
+   "description": "Molho, mussarela, camarão, alho e óleo.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/camarao-ao-alho-e-oleo.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 7.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Camarão ao Molho Pesto",
+   "description": "Molho, mussarela, camarão e molho pesto.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/camarao-ao-molho-pesto.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 7.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Filé Alho e Óleo",
+   "description": "Molho, mussarela, filé, alho e óleo.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/file-alho-e-oleo.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 7.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Filé na Mostarda",
+   "description": "Molho, mussarela, filé e mostarda.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/file-na-mostarda.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 7.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha Filé Barbecue",
+   "description": "Molho, mussarela, filé e barbecue.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/file-barbecue.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 7.5
+    }
+   ]
+  },
+  {
+   "name": "Esfiha 6 Queijos",
+   "description": "Molho, mussarela, provolone, parmesão, gorgonzola, cheddar e catupiry.",
+   "category": "Esfihas",
+   "image": "/products/esfihas/6-queijos.webp",
+   "prices": [
+    {
+     "label": "Nobre",
+     "value": 7.5
+    }
+   ]
+  },
+  {
+   "name": "Coca-Cola 2 litros",
+   "description": "Refrigerante Coca-Cola gelado, garrafa de 2 litros.",
+   "category": "Bebidas",
+   "image": "/products/drinks/coca-cola-2l.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 16
+    }
+   ]
+  },
+  {
+   "name": "Coca-Cola 600ml",
+   "description": "Refrigerante Coca-Cola gelado, garrafa de 600ml.",
+   "category": "Bebidas",
+   "image": "/products/drinks/coca-cola-600ml.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 10
+    }
+   ]
+  },
+  {
+   "name": "Coca-Cola lata 350ml",
+   "description": "Refrigerante Coca-Cola gelado, lata de 350ml.",
+   "category": "Bebidas",
+   "image": "/products/drinks/coca-cola-350ml.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 7
+    }
+   ]
+  },
+  {
+   "name": "Coca-Cola Zero 2 litros",
+   "description": "Refrigerante Coca-Cola Zero gelado, garrafa de 2 litros.",
+   "category": "Bebidas",
+   "image": "/products/drinks/coca-zero-2l.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 16
+    }
+   ]
+  },
+  {
+   "name": "Coca-Cola Zero 600ml",
+   "description": "Refrigerante Coca-Cola Zero gelado, garrafa de 600ml.",
+   "category": "Bebidas",
+   "image": "/products/drinks/coca-zero-600ml.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 10
+    }
+   ]
+  },
+  {
+   "name": "Coca-Cola Zero lata 350ml",
+   "description": "Refrigerante Coca-Cola Zero gelado, lata de 350ml.",
+   "category": "Bebidas",
+   "image": "/products/drinks/coca-zero-350ml.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 7
+    }
+   ]
+  },
+  {
+   "name": "Fanta Laranja 2 litros",
+   "description": "Refrigerante Fanta Laranja gelado, garrafa de 2 litros.",
+   "category": "Bebidas",
+   "image": "/products/drinks/fanta-2l.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 15
+    }
+   ]
+  },
+  {
+   "name": "Fanta Laranja lata",
+   "description": "Refrigerante Fanta Laranja gelado em lata.",
+   "category": "Bebidas",
+   "image": "/products/drinks/fanta-lata.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 7
+    }
+   ]
+  },
+  {
+   "name": "Fanta Uva 2 litros",
+   "description": "Refrigerante Fanta Uva gelado, garrafa de 2 litros.",
+   "category": "Bebidas",
+   "image": "/products/drinks/fanta-uva-2l.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 15
+    }
+   ]
+  },
+  {
+   "name": "Fanta Uva lata",
+   "description": "Refrigerante Fanta Uva gelado em lata.",
+   "category": "Bebidas",
+   "image": "/products/drinks/fanta-uva-lata.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 7
+    }
+   ]
+  },
+  {
+   "name": "Sprite 2 litros",
+   "description": "Refrigerante Sprite gelado, garrafa de 2 litros.",
+   "category": "Bebidas",
+   "image": "/products/drinks/sprite-2l.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 15
+    }
+   ]
+  },
+  {
+   "name": "Guaraná Kuat 2 litros",
+   "description": "Refrigerante de guaraná Kuat gelado, garrafa de 2 litros.",
+   "category": "Bebidas",
+   "image": "/products/drinks/guarana-kuat.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 13
+    }
+   ]
+  },
+  {
+   "name": "Monster 473ml",
+   "description": "Energético Monster gelado, lata de 473ml.",
+   "category": "Bebidas",
+   "image": "/products/drinks/monster-473ml.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 15
+    }
+   ]
+  },
+  {
+   "name": "Schweppes tradicional lata",
+   "description": "Refrigerante Schweppes tradicional gelado em lata.",
+   "category": "Bebidas",
+   "image": "/products/drinks/schweppes.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 7
+    }
+   ]
+  },
+  {
+   "name": "Água mineral sem gás",
+   "description": "Água mineral sem gás gelada.",
+   "category": "Bebidas",
+   "image": "/products/drinks/agua.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 4
+    }
+   ]
+  },
+  {
+   "name": "Água mineral com gás",
+   "description": "Água mineral com gás gelada.",
+   "category": "Bebidas",
+   "image": "/products/drinks/agua.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 4
+    }
+   ]
+  },
+  {
+   "name": "Kaiser",
+   "description": "Cerveja Kaiser gelada.",
+   "category": "Bebidas",
+   "image": "/products/drinks/kaiser.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 6
+    }
+   ]
+  },
+  {
+   "name": "Eisenbahn long neck",
+   "description": "Cerveja Eisenbahn long neck gelada.",
+   "category": "Bebidas",
+   "image": "/products/drinks/eisenbahn-long-neck.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 10
+    }
+   ]
+  },
+  {
+   "name": "Brahma",
+   "description": "Cerveja Brahma gelada.",
+   "category": "Bebidas",
+   "image": "/products/drinks/brahma.webp",
+   "prices": [
+    {
+     "label": "Unidade",
+     "value": 7
+    }
+   ]
+  }
+ ],
+ "zones": {
+  "Rio Negro/PR": [
+   [
+    "Centro I (Baixada)",
+    10
+   ],
+   [
+    "Centro II (Alto de Mafra)",
+    12
+   ],
+   [
+    "Centro III (Monte Alegre)",
+    15
+   ],
+   [
+    "Vila Ferroviária",
+    10
+   ],
+   [
+    "Vila Argentina",
+    10
+   ],
+   [
+    "Vila Buenos Aires (Nossa Senhora)",
+    10
+   ],
+   [
+    "Vila Paraíso",
+    10
+   ],
+   [
+    "Vila Militar",
+    8
+   ],
+   [
+    "Centro",
+    8
+   ],
+   [
+    "Vila Paraná",
+    8
+   ],
+   [
+    "Vila Ivete",
+    12
+   ],
+   [
+    "Vila Formosa",
+    13
+   ],
+   [
+    "Jardim do Moinho",
+    13
+   ],
+   [
+    "Restinga",
+    13
+   ],
+   [
+    "Vila Nova",
+    15
+   ],
+   [
+    "Vila Velha",
+    15
+   ],
+   [
+    "Jardim América (Autódromo)",
+    12
+   ],
+   [
+    "Volta Grande",
+    10
+   ],
+   [
+    "Campo do Gado",
+    10
+   ],
+   [
+    "Estação Nova",
+    13
+   ],
+   [
+    "Vila Solidariedade",
+    12
+   ],
+   [
+    "Vila das Flores",
+    13
+   ],
+   [
+    "Jardim Zelinda",
+    12
+   ],
+   [
+    "Passa Três",
+    10
+   ],
+   [
+    "Passo do Valo",
+    15
+   ],
+   [
+    "Bairro Alto",
+    12
+   ],
+   [
+    "Bom Jesus",
+    10
+   ],
+   [
+    "Seminário",
+    13
+   ],
+   [
+    "Outro bairro — consultar taxa",
+    null
+   ]
+  ],
+  "Mafra/SC": [
+   [
+    "Faxinal",
+    15
+   ],
+   [
+    "São Lourenço",
+    20
+   ],
+   [
+    "Campo da Lança",
+    20
+   ],
+   [
+    "Espigão do Bugre (KM 9)",
+    20
+   ],
+   [
+    "Fazenda Potreiro",
+    20
+   ],
+   [
+    "Fazenda Potreiro 2",
+    45
+   ],
+   [
+    "Tijuco Preto",
+    15
+   ],
+   [
+    "Sítio dos Rauen",
+    15
+   ],
+   [
+    "Vila Grossel",
+    15
+   ],
+   [
+    "Amola-Flecha",
+    15
+   ],
+   [
+    "Rio Preto",
+    50
+   ],
+   [
+    "Roseira",
+    50
+   ],
+   [
+    "Vila Ema (São Judas)",
+    12
+   ],
+   [
+    "Imbuiaú",
+    15
+   ],
+   [
+    "Novo Horizonte",
+    15
+   ],
+   [
+    "Outro bairro — consultar taxa",
+    null
+   ]
+  ]
+ },
+ "flavors": [
+  {
+   "name": "Alho e Óleo",
+   "description": "Molho, mussarela, alho, azeite de oliva e azeitona preta.",
+   "tier": "Tradicional",
+   "premium": false
+  },
+  {
+   "name": "Atum",
+   "description": "Molho, mussarela, atum, cebola e azeitona preta.",
+   "tier": "Tradicional",
+   "premium": false
+  },
+  {
+   "name": "Bacon",
+   "description": "Molho, mussarela e bacon.",
+   "tier": "Tradicional",
+   "premium": false
+  },
+  {
+   "name": "Brócolis",
+   "description": "Molho, mussarela e brócolis.",
+   "tier": "Tradicional",
+   "premium": false
+  },
+  {
+   "name": "Calabresa",
+   "description": "Molho, mussarela, calabresa e cebola.",
+   "tier": "Tradicional",
+   "premium": false
+  },
+  {
+   "name": "Ele e Ela",
+   "description": "Molho, mussarela, presunto e tomate-cereja.",
+   "tier": "Tradicional",
+   "premium": false
+  },
+  {
+   "name": "Napolitana",
+   "description": "Molho, mussarela, tomate-cereja e parmesão.",
+   "tier": "Tradicional",
+   "premium": false
+  },
+  {
+   "name": "Marguerita",
+   "description": "Molho, mussarela, tomate-cereja, parmesão, manjericão, alho e óleo.",
+   "tier": "Tradicional",
+   "premium": false
+  },
+  {
+   "name": "Paulista",
+   "description": "Molho, mussarela, milho, palmito, tomate-cereja e azeitona.",
+   "tier": "Tradicional",
+   "premium": false
+  },
+  {
+   "name": "Palmito",
+   "description": "Molho, mussarela, palmito e catupiry.",
+   "tier": "Tradicional",
+   "premium": false
+  },
+  {
+   "name": "Pepperoni",
+   "description": "Molho, mussarela e pepperoni.",
+   "tier": "Tradicional",
+   "premium": false
+  },
+  {
+   "name": "Lombo",
+   "description": "Molho, mussarela, lombo e catupiry.",
+   "tier": "Tradicional",
+   "premium": false
+  },
+  {
+   "name": "2 Queijos",
+   "description": "Molho, mussarela e catupiry.",
+   "tier": "Tradicional",
+   "premium": false
+  },
+  {
+   "name": "Brócolis Especial",
+   "description": "Molho, mussarela, brócolis, bacon, catupiry, tomate-cereja e azeitona.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Americana",
+   "description": "Molho, mussarela, calabresa, milho, ovo, bacon e cheddar.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Baiana",
+   "description": "Molho, mussarela, calabresa, cebola, ovo e pimenta calabresa.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Frango e Bacon",
+   "description": "Molho, mussarela, frango, bacon e catupiry.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Frango Palha",
+   "description": "Molho, mussarela, frango, bacon, catupiry e batata palha.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Frango Caipira",
+   "description": "Molho, mussarela, frango, milho, bacon e catupiry.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Havaiana",
+   "description": "Molho, mussarela, abacaxi, barbecue e tomate-cereja.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Mexicana",
+   "description": "Molho, mussarela, calabresa, cebola, pimenta calabresa e geleia de pimenta.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Milho e Bacon",
+   "description": "Molho, mussarela, milho, bacon e catupiry.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Portuguesa",
+   "description": "Molho, mussarela, presunto, cebola, ovo, pimentão e azeitona preta.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Creme Frango",
+   "description": "Molho, mussarela, frango em cubos, creme de cheddar e Doritos.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Italiana",
+   "description": "Molho, mussarela, salame italiano, parmesão, molho pesto e azeitona preta.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Linguiça Blumenau",
+   "description": "Molho, mussarela, linguiça defumada, champignon, azeitona preta, alho e óleo.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Lombo com Cream Cheese",
+   "description": "Molho, mussarela, lombo, bacon e cream cheese.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Lombo com Barbecue",
+   "description": "Molho, mussarela, lombo, bacon e barbecue.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Lombo Especial",
+   "description": "Molho, mussarela, lombo, palmito, bacon, ovo e catupiry.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Strogonoff de Carne",
+   "description": "Molho, mussarela, strogonoff de carne e batata palha.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Strogonoff de Frango",
+   "description": "Molho, mussarela, strogonoff de frango e batata palha.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Costela",
+   "description": "Molho, mussarela, costela desfiada, cebola, alho e óleo.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Costela com Barbecue",
+   "description": "Molho, mussarela, costela desfiada, barbecue e batata palha.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Bolonhesa",
+   "description": "Molho, mussarela, carne moída, parmesão e batata palha.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Vegetariana",
+   "description": "Molho, mussarela, tomate-cereja, milho, brócolis e molho pesto.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Palmito, Nozes e Mel",
+   "description": "Molho, mussarela, palmito, nozes, mel e gorgonzola.",
+   "tier": "Nobre",
+   "premium": false
+  },
+  {
+   "name": "Camarão Cheese",
+   "description": "Molho, mussarela, camarão e cream cheese.",
+   "tier": "Nobre",
+   "premium": true
+  },
+  {
+   "name": "Camarão ao Alho e Óleo",
+   "description": "Molho, mussarela, camarão, alho e óleo.",
+   "tier": "Nobre",
+   "premium": true
+  },
+  {
+   "name": "Camarão ao Molho Pesto",
+   "description": "Molho, mussarela, camarão e molho pesto.",
+   "tier": "Nobre",
+   "premium": true
+  },
+  {
+   "name": "Filé Alho e Óleo",
+   "description": "Molho, mussarela, filé, alho e óleo.",
+   "tier": "Nobre",
+   "premium": false
+  },
+  {
+   "name": "Filé na Mostarda",
+   "description": "Molho, mussarela, filé e mostarda.",
+   "tier": "Nobre",
+   "premium": false
+  },
+  {
+   "name": "Filé Barbecue",
+   "description": "Molho, mussarela, filé e barbecue.",
+   "tier": "Nobre",
+   "premium": false
+  },
+  {
+   "name": "6 Queijos",
+   "description": "Molho, mussarela, provolone, parmesão, gorgonzola, cheddar e catupiry.",
+   "tier": "Nobre",
+   "premium": false
+  },
+  {
+   "name": "Sensação",
+   "description": "Creme de leite, mussarela, chocolate preto e morango.",
+   "tier": "Tradicional"
+  },
+  {
+   "name": "Tentação",
+   "description": "Creme de leite, mussarela, chocolate branco, morango e coco ralado.",
+   "tier": "Tradicional"
+  },
+  {
+   "name": "Dois Amores",
+   "description": "Creme de leite, mussarela, chocolate branco, chocolate preto e morango.",
+   "tier": "Tradicional"
+  },
+  {
+   "name": "Abacaxi com Chocolate Branco Gratinado",
+   "description": "Creme de leite, mussarela, abacaxi e chocolate branco gratinado.",
+   "tier": "Tradicional"
+  },
+  {
+   "name": "Charge",
+   "description": "Creme de leite, mussarela, doce de leite, chocolate preto e amendoim.",
+   "tier": "Tradicional"
+  },
+  {
+   "name": "Prestígio",
+   "description": "Creme de leite, mussarela, chocolate preto, Prestígio e coco ralado.",
+   "tier": "Tradicional"
+  },
+  {
+   "name": "Banana com Chocolate Preto",
+   "description": "Creme de leite, mussarela, banana e chocolate preto.",
+   "tier": "Tradicional"
+  },
+  {
+   "name": "Banana Nevada",
+   "description": "Creme de leite, mussarela, banana e chocolate branco gratinado.",
+   "tier": "Tradicional"
+  },
+  {
+   "name": "Banana com Canela",
+   "description": "Creme de leite, mussarela, banana, açúcar e canela.",
+   "tier": "Tradicional"
+  },
+  {
+   "name": "Confete",
+   "description": "Creme de leite, mussarela, chocolate preto e confete.",
+   "tier": "Tradicional"
+  },
+  {
+   "name": "Banoffee",
+   "description": "Creme de leite, mussarela, doce de leite, banana e chocolate preto.",
+   "tier": "Tradicional"
+  },
+  {
+   "name": "Kinder Bueno",
+   "description": "Chocolate branco, chocolate preto, morango e Kinder Bueno.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Nutella com Morango",
+   "description": "Creme de leite, mussarela, creme de avelã Nutella, Nutella em barras e morango.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Rafaello",
+   "description": "Creme de leite, mussarela, creme de avelã Nutella, raspas de chocolate branco, Rafaello e morango.",
+   "tier": "Especial",
+   "premium": true
+  },
+  {
+   "name": "Ninho com Nutella",
+   "description": "Creme de leite, mussarela, creme de avelã Nutella, morango, creme Ninho e leite em pó Ninho.",
+   "tier": "Especial",
+   "premium": false
+  },
+  {
+   "name": "Califórnia",
+   "description": "Creme de leite, mussarela, abacaxi, pêssego, cereja, morango e leite condensado.",
+   "tier": "Especial",
+   "premium": false
+  }
+ ],
+ "categories": [
+  "Todos",
+  "Lanches",
+  "Combos",
+  "Bebidas",
+  "Pizzas tradicionais",
+  "Pizzas especiais",
+  "Pizzas nobres",
+  "Pizzas doces tradicionais",
+  "Pizzas doces especiais",
+  "Batatas recheadas",
+  "Esfihas"
+ ]
+}
