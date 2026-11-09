@@ -1,6 +1,8 @@
 # Xbom Lanches
 
-> Status: **no ar, em fase de implantação**. Os pedidos ainda não são guardados de forma permanente nem avisam o restaurante automaticamente.
+> **Este repositório é a v2, em desenvolvimento.** A v1 (cardápio digital em que o cliente envia o pedido pelo WhatsApp do restaurante) é a versão em uso pelo restaurante e não está neste repositório.
+>
+> Status da v2: **no ar, em fase de implantação**. Os pedidos ainda não são guardados de forma permanente nem avisam o restaurante automaticamente.
 
 Site: https://xbom-lanches.vercel.app
 
@@ -28,3 +30,5 @@ Next.js, React, Tailwind CSS, SQLite, Vercel e Claude Code.
     npm run dev                  # http://localhost:3000
 
 Os dados da loja (telefone, Pix, endereço) são configurados pelo painel em `/admin`. O repositório traz apenas valores de exemplo.
+
+Fotos do cardápio ilustrativas, geradas com IA.
