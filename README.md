@@ -30,5 +30,3 @@ Next.js, React, Tailwind CSS, SQLite, Vercel e Claude Code.
     npm run dev                  # http://localhost:3000
 
 Os dados da loja (telefone, Pix, endereço) são configurados pelo painel em `/admin`. O repositório traz apenas valores de exemplo.
-
-Fotos do cardápio ilustrativas, geradas com IA.
